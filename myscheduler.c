@@ -43,6 +43,7 @@ void read_sysconfig(char argv0[], char filename[])
 {
     FILE *fptr;
     fptr = fopen(filename, "r");
+    //hi
     
 }
 
